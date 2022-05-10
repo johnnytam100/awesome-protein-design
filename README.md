@@ -26,6 +26,12 @@ A curated list of awesome protein design research, software and resources.
   [How Deep Learning Tools Can Help Protein Engineers Find Good Sequences](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c02449?ref=PDF#)
   
   <img src="https://user-images.githubusercontent.com/51283097/167561055-7ae83fce-3cb3-4c11-af9d-afb7ebad2d11.png" width="300">
+  
+  
+  [Efficient generative modeling of protein sequences using simple autoregressive models](https://www.nature.com/articles/s41467-021-25756-4/figures/1)
+  
+  <img src="https://user-images.githubusercontent.com/51283097/167564928-c1ac763f-0c6a-4797-a752-50a3beb2aaf7.png" width="300">
+
 
 
 
