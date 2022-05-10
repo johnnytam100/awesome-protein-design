@@ -3,7 +3,7 @@ A curated list of awesome protein design research, software and resources.
 
 # Research articles
   
-  ![image](https://user-images.githubusercontent.com/51283097/167543916-75615dbe-058f-451a-aca5-7f41db8e93d6.png=100x100)
+  ![image](https://user-images.githubusercontent.com/51283097/167543916-75615dbe-058f-451a-aca5-7f41db8e93d6.png =100x100)
   
   Low-N protein engineering with data-efficient deep learning
   https://www.nature.com/articles/s41592-021-01100-y
