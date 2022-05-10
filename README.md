@@ -38,6 +38,9 @@ A curated list of awesome protein design research, software and resources.
   <img src="https://user-images.githubusercontent.com/51283097/167566566-786d5e81-314d-4e4c-b315-3ff201089bc5.png" width="300">
 
 
+  [Advances in machine learning for directed evolution](https://www.sciencedirect.com/science/article/pii/S0959440X21000154#bbib0275)
+  
+  <img src="https://user-images.githubusercontent.com/51283097/167568768-f13a86c9-2e52-42cb-8e68-031fd8bf850d.png" width="300">
 
 
 
