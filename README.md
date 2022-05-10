@@ -17,6 +17,12 @@ A curated list of awesome protein design research, software and resources.
   
   <img src="https://user-images.githubusercontent.com/51283097/167544838-f60e0d14-091f-4300-9fe6-31fc874a5e79.png" width="300">
   
+  
+  [Generating functional protein variants with variational autoencoders](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008736)
+  
+  <img src="https://user-images.githubusercontent.com/51283097/167560861-8dafa2a1-dedc-4644-a4a5-a929aecac8bc.png" width="300">
+
+  
 
   
 
