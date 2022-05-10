@@ -21,6 +21,13 @@ A curated list of awesome protein design research, software and resources.
   [Generating functional protein variants with variational autoencoders](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008736)
   
   <img src="https://user-images.githubusercontent.com/51283097/167560861-8dafa2a1-dedc-4644-a4a5-a929aecac8bc.png" width="300">
+  
+  
+  [How Deep Learning Tools Can Help Protein Engineers Find Good Sequences](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c02449?ref=PDF#)
+  
+  <img src="https://user-images.githubusercontent.com/51283097/167561055-7ae83fce-3cb3-4c11-af9d-afb7ebad2d11.png" width="300">
+
+
 
   
 
