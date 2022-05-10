@@ -41,6 +41,12 @@ A curated list of awesome protein design research, software and resources.
   [Advances in machine learning for directed evolution](https://www.sciencedirect.com/science/article/pii/S0959440X21000154#bbib0275)
   
   <img src="https://user-images.githubusercontent.com/51283097/167568768-f13a86c9-2e52-42cb-8e68-031fd8bf850d.png" width="300">
+  
+  
+  [Deep Learning in Protein Structural Modeling and Design](https://www.sciencedirect.com/science/article/pii/S2666389920301902#fig3)
+  
+  <img src="https://user-images.githubusercontent.com/51283097/167591027-1e009d0d-8981-46a0-b730-f6eccb61f70e.png" width="300">
+
 
 
 
