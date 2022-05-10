@@ -31,6 +31,12 @@ A curated list of awesome protein design research, software and resources.
   [Efficient generative modeling of protein sequences using simple autoregressive models](https://www.nature.com/articles/s41467-021-25756-4/figures/1)
   
   <img src="https://user-images.githubusercontent.com/51283097/167564928-c1ac763f-0c6a-4797-a752-50a3beb2aaf7.png" width="300">
+  
+  
+  [Machine learning to navigate fitness landscapes for protein engineering](https://www.sciencedirect.com/science/article/pii/S0958166922000465)
+  
+  <img src="https://user-images.githubusercontent.com/51283097/167566566-786d5e81-314d-4e4c-b315-3ff201089bc5.png" width="300">
+
 
 
 
